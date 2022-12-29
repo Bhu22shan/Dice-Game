@@ -4,7 +4,7 @@ let randomNumber1 = Math.floor(Math.random() * 6) + 1
 
 //dice image
 
-let diceImage1 = "/assets/dice" + randomNumber1 + ".png"
+let diceImage1 = "./assets/dice" + randomNumber1 + ".png"
 
 //changing dice rolling
 
@@ -20,7 +20,7 @@ let randomNumber2 = Math.floor(Math.random() * 6) + 1
 
 
 
-let diceImage2 = "/assets/dice" + randomNumber2 + ".png"
+let diceImage2 = "./assets/dice" + randomNumber2 + ".png"
 
 
 
